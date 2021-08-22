@@ -1,10 +1,8 @@
-# Oi, tudo bem? Chegou aqui atravÃ©s do curso, certo? ðŸ™ƒ
+Olá,
+Este é meu resultado do desafio de simular 
+a página de login do Instagram. 
+Personalizei a página simulando que o Insta
+fosse uma rede social de fotos de vigens.
 
-Esse Ã© o repositÃ³rio da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+obd.: As imagens não são de minha autoria
 
-### Os requisitos sÃ£o:
-
-* [HTML bÃ¡sico](https://www.w3schools.com/html/)
-* [CSS bÃ¡sico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## ðŸš€ Let's code! ðŸš€
