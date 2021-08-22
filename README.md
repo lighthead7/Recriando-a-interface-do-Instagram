@@ -1,8 +1,11 @@
-Ol·,
-Este È meu resultado do desafio de simular 
-a p·gina de login do Instagram. 
-Personalizei a p·gina simulando que o Insta
+Ol√°,
+Aqui est√£o os arquivos relacionados ao curso de HTML da DIO, 
+exportados da conta da especialista que ensinou.
+Tamn√©m est√£o os arquivos do meu c√≥digo.
+Este √© meu resultado do desafio de simular 
+a p√°gina de login do Instagram. 
+Personalizei a p√°gina simulando que o Insta
 fosse uma rede social de fotos de vigens.
 
-obd.: As imagens n„o s„o de minha autoria
+obd.: As imagens n√£o s√£o de minha autoria
 
